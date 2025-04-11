@@ -38,7 +38,7 @@ The SQL query consists of several Common Table Expressions (CTEs):
 3. Execute the provided SQL query
 
 ## Query Details
-- Total Lines of Code: 300+
+- Total Lines of Code: 100+
 - Number of Tables Used: 13
 - Number of CTEs: 8
 - Language: SQL (T-SQL)
